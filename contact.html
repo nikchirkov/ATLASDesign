@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | ATLAS Design</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+    <div id="header-container"></div>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="page-header-content">
+            <h1>Contact Us</h1>
+            <p>Get in touch to discuss your project</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <span class="section-label">Get in Touch</span>
+                    <h3>Start Creating Your Ideal Space</h3>
+                    <p>
+                        Leave a request for a free consultation, and we will discuss your project, 
+                        answer all questions, and suggest the optimal solution.
+                    </p>
+                    <p>
+                        We value your time, so we will contact you within one business day.
+                    </p>
+                    
+                    <div class="contact-details">
+                        <div class="contact-item">
+                            <span class="contact-item-label">📞 Phone:</span>
+                            <span class="contact-item-value"><a href="tel:+1XXXXXXXXXX">+1 (XXX) XXX-XXXX</a></span>
+                        </div>
+                        <div class="contact-item">
+                            <span class="contact-item-label">✉️ Email:</span>
+                            <span class="contact-item-value"><a href="mailto:info@atlasdesign.com">info@atlasdesign.com</a></span>
+                        </div>
+                        <div class="contact-item">
+                            <span class="contact-item-label">📍 Address:</span>
+                            <span class="contact-item-value">123 Design Avenue, New York, NY 10001</span>
+                        </div>
+                        <div class="contact-item">
+                            <span class="contact-item-label">🕐 Business Hours:</span>
+                            <span class="contact-item-value">Mon-Fri: 10:00 AM - 7:00 PM<br>Sat-Sun: By Appointment</span>
+                        </div>
+                    </div>
+
+                    <div class="contact-info-extra">
+                        <h4>Follow Us on Social Media:</h4>
+                        <div class="social-links">
+                        </div>
+                    </div>
+                </div>
+
+                <form class="contact-form" id="contactForm">
+                    <h4 class="contact-form-title">Fill Out the Form</h4>
+                    
+                    <div class="form-group">
+                        <label for="name">Your Name *</label>
+                        <input type="text" id="name" name="name" placeholder="John Smith" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">Email *</label>
+                        <input type="email" id="email" name="email" placeholder="example@email.com" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">Phone *</label>
+                        <input type="tel" id="phone" name="phone" placeholder="+1 (___) ___-____" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="service">Service of Interest</label>
+                        <select id="service" name="service">
+                            <option value="">Select a service</option>
+                            <option value="interior">Interior Design</option>
+                            <option value="decoration">Decorating</option>
+                            <option value="architecture">Architectural Design</option>
+                            <option value="supervision">Design Supervision</option>
+                            <option value="furniture">Furniture Selection</option>
+                            <option value="consultation">Consultation</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="budget">Estimated Budget</label>
+                        <select id="budget" name="budget">
+                            <option value="">Select a range</option>
+                            <option value="50k-100k">$50,000 - $100,000</option>
+                            <option value="100k-300k">$100,000 - $300,000</option>
+                            <option value="300k-500k">$300,000 - $500,000</option>
+                            <option value="500k-1m">$500,000 - $1,000,000</option>
+                            <option value="1m+">Over $1,000,000</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" placeholder="Tell us about your project: property type, square footage, preferences..."></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" name="privacy" required>
+                            <span>I agree to the processing of personal data</span>
+                        </label>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-gold btn-full">Submit Request</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map Section -->
+    <section class="map-section">
+        <div class="map-placeholder">
+            <div>
+                <h3>Our Office</h3>
+                <p class="text-gray">123 Design Avenue, New York, NY 10001</p>
+                <p class="text-gray small">(Interactive map will be here)</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="page-section">
+        <div class="container">
+            <div class="section-center small-margin">
+                <span class="section-label">FAQ</span>
+                <h2 class="section-title">Frequently Asked Questions</h2>
+            </div>
+            <div class="faq-container">
+                <div class="faq-item fade-in">
+                    <h4>How much does a design project cost?</h4>
+                    <p class="text-gray">
+                        The cost depends on the property area and selected service package. 
+                        Basic package — from $50/sq ft, Standard — from $80/sq ft, 
+                        Premium — from $120/sq ft.
+                    </p>
+                </div>
+                <div class="faq-item has-border fade-in">
+                    <h4>What are the project timelines?</h4>
+                    <p class="text-gray">
+                        Design project development takes from 3 to 8 weeks depending 
+                        on the area and complexity of the object. Turnkey implementation — from 2 to 6 months.
+                    </p>
+                </div>
+                <div class="faq-item has-border fade-in">
+                    <h4>Do you work on projects outside New York?</h4>
+                    <p class="text-gray">
+                        Yes, we work throughout the USA and internationally. 
+                        Remote meetings and distance project management are available.
+                    </p>
+                </div>
+                <div class="faq-item has-border fade-in">
+                    <h4>Can I order furniture selection only?</h4>
+                    <p class="text-gray">
+                        Yes, we provide furnishing and furniture selection services 
+                        both separately and as part of a full project.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Discuss Your Project?</h2>
+            <p>Schedule a free consultation at our showroom or online</p>
+            <div class="cta-buttons-row">
+                <a href="tel:+1XXXXXXXXXX" class="btn btn-gold btn-large">Call Us</a>
+                <a href="mailto:info@atlasdesign.com" class="btn btn-large">Email Us</a>
+            </div>
+        </div>
+    </section>
+
+    <div id="footer-container"></div>
+</body>
+</html>
