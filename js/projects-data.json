@@ -1,0 +1,404 @@
+{
+  "projects": [
+    {
+      "id": "zhk-tulpar",
+      "name": "ZHK Tulpar",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/zhk-tulpar",
+      "area": "45,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern residential complex featuring contemporary architecture and premium amenities. The project includes multiple buildings with panoramic views of the city.",
+      "features": {
+        "colorPalette": "Neutral tones with natural stone accents",
+        "lighting": "Architectural LED lighting with smart control",
+        "materials": "Natural stone, glass, metal, wood"
+      }
+    },
+    {
+      "id": "zhk-prime-park",
+      "name": "ZHK Prime Park",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/zhk-prime-park",
+      "area": "38,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Premium residential complex with park-like landscaping and modern infrastructure. Designed for comfortable urban living.",
+      "features": {
+        "colorPalette": "Warm beige and green tones",
+        "lighting": "Integrated facade lighting",
+        "materials": "Brick, glass, aluminum composite"
+      }
+    },
+    {
+      "id": "penthouse",
+      "name": "Penthouse",
+      "category": "private-residences",
+      "categoryLabel": "Private Residences",
+      "folder": "img/projects/project/penthouse",
+      "area": "450 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Luxury penthouse with panoramic windows and exclusive interior design. Features spacious living areas and premium finishes.",
+      "features": {
+        "colorPalette": "Monochrome with gold accents",
+        "lighting": "Designer chandeliers and ambient lighting",
+        "materials": "Marble, velvet, brass, walnut wood"
+      }
+    },
+    {
+      "id": "bc-office-64-atyrau",
+      "name": "BC Office 64 Atyrau",
+      "category": "office-administrative",
+      "categoryLabel": "Office & Administrative",
+      "folder": "img/projects/project/bc-office-64-atyrau",
+      "area": "12,000 sq m",
+      "location": "Atyrau, Kazakhstan",
+      "year": "2023",
+      "description": "Modern office building with state-of-the-art facilities and elegant lobby design. Built for corporate comfort and efficiency.",
+      "features": {
+        "colorPalette": "Corporate gray and blue tones",
+        "lighting": "Energy-efficient LED panels",
+        "materials": "Granite, steel, tempered glass"
+      }
+    },
+    {
+      "id": "bee-office",
+      "name": "Bee Office",
+      "category": "office-administrative",
+      "categoryLabel": "Office & Administrative",
+      "folder": "img/projects/project/bee-office",
+      "area": "3,500 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Creative office space with modern design and collaborative work areas. Features open-plan layout and natural lighting.",
+      "features": {
+        "colorPalette": "Yellow and white with natural wood",
+        "lighting": "Natural daylight with adjustable LEDs",
+        "materials": "Wood, acoustic panels, glass partitions"
+      }
+    },
+    {
+      "id": "shymkent-office",
+      "name": "Shymkent Office",
+      "category": "office-administrative",
+      "categoryLabel": "Office & Administrative",
+      "folder": "img/projects/project/shymkent-office",
+      "area": "2,800 sq m",
+      "location": "Shymkent, Kazakhstan",
+      "year": "2024",
+      "description": "Corporate office with reception hall and modern workspaces. Designed for productivity and professional atmosphere.",
+      "features": {
+        "colorPalette": "Neutral grays with accent walls",
+        "lighting": "Recessed ceiling lights",
+        "materials": "Laminate, carpet tiles, glass"
+      }
+    },
+    {
+      "id": "british-university",
+      "name": "British University",
+      "category": "higher-education",
+      "categoryLabel": "Higher Education",
+      "folder": "img/projects/project/british-university",
+      "area": "25,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2023",
+      "description": "International university campus with modern educational facilities. Features lecture halls, laboratories, and student areas.",
+      "features": {
+        "colorPalette": "Traditional brick red and cream",
+        "lighting": "High-bay educational lighting",
+        "materials": "Brick, concrete, steel framework"
+      }
+    },
+    {
+      "id": "farabi-int-school",
+      "name": "Farabi International School",
+      "category": "secondary-education",
+      "categoryLabel": "Secondary Education",
+      "folder": "img/projects/project/farabi-int-school",
+      "area": "18,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2023",
+      "description": "Modern international school with advanced educational facilities. Designed to inspire learning and creativity.",
+      "features": {
+        "colorPalette": "Bright colors for learning environment",
+        "lighting": "Child-friendly LED fixtures",
+        "materials": "Safe polymers, wood, cork flooring"
+      }
+    },
+    {
+      "id": "spa-center",
+      "name": "SPA Center",
+      "category": "spa-saunas",
+      "categoryLabel": "SPA & Saunas",
+      "folder": "img/projects/project/spa-center",
+      "area": "1,200 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Luxury SPA and wellness complex with sauna facilities. Designed for relaxation and rejuvenation.",
+      "features": {
+        "colorPalette": "Calming earth tones and greens",
+        "lighting": "Soft ambient and candle lighting",
+        "materials": "Natural stone, wood, water features"
+      }
+    },
+    {
+      "id": "apartment-9",
+      "name": "Apartment 9",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-9",
+      "area": "120 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern apartment interior with contemporary design. Features open living space and premium finishes.",
+      "features": {
+        "colorPalette": "Scandinavian white and gray",
+        "lighting": "Track lighting and floor lamps",
+        "materials": "Oak parquet, linen textiles, metal accents"
+      }
+    },
+    {
+      "id": "apartment-8",
+      "name": "Apartment 8",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-8",
+      "area": "95 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Stylish apartment with modern interior design. Created for comfortable urban living.",
+      "features": {
+        "colorPalette": "Warm neutrals with textile accents",
+        "lighting": "Pendant lights and sconces",
+        "materials": "Engineered wood, cotton, leather"
+      }
+    },
+    {
+      "id": "asem-kala",
+      "name": "Asem Kala",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/asem-kala",
+      "area": "52,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2023",
+      "description": "Large residential complex with modern architecture. Features multiple buildings and comprehensive infrastructure.",
+      "features": {
+        "colorPalette": "Contemporary beige and brown",
+        "lighting": "Facade and landscape lighting",
+        "materials": "Ventilated facade, aluminum, glass"
+      }
+    },
+    {
+      "id": "op-grand-alatau",
+      "name": "OP Grand Alatau",
+      "category": "office-administrative",
+      "categoryLabel": "Office & Administrative",
+      "folder": "img/projects/project/op-grand-alatau",
+      "area": "4,200 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Premium office space in Grand Alatau complex. Modern design with professional atmosphere.",
+      "features": {
+        "colorPalette": "Executive dark wood and cream",
+        "lighting": "Premium office lighting system",
+        "materials": "Wood veneer, leather, marble floors"
+      }
+    },
+    {
+      "id": "nish-extension",
+      "name": "NISH Extension",
+      "category": "secondary-education",
+      "categoryLabel": "Secondary Education",
+      "folder": "img/projects/project/nish-extension",
+      "area": "8,000 sq m",
+      "location": "Kazakhstan",
+      "year": "2024",
+      "description": "Extension to NISH educational facility with modern vestibule and corridors. Expands learning capacity.",
+      "features": {
+        "colorPalette": "Consistent with main building",
+        "lighting": "Energy-efficient LED system",
+        "materials": "Durable wall panels, tile flooring"
+      }
+    },
+    {
+      "id": "kindergarten",
+      "name": "Kindergarten",
+      "category": "preschool-education",
+      "categoryLabel": "Preschool Education",
+      "folder": "img/projects/project/kindergarten",
+      "area": "3,500 sq m",
+      "location": "Kazakhstan",
+      "year": "2024",
+      "description": "Modern kindergarten with child-friendly design. Features bright spaces and safe environments.",
+      "features": {
+        "colorPalette": "Playful primary colors",
+        "lighting": "Soft child-safe lighting",
+        "materials": "Non-toxic paints, rubber flooring, rounded edges"
+      }
+    },
+    {
+      "id": "narxoz-university",
+      "name": "Narxoz University",
+      "category": "student-housing",
+      "categoryLabel": "Student Housing",
+      "folder": "img/projects/project/narxoz-university",
+      "area": "12,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2023",
+      "description": "University dormitory with modern student accommodations. Designed for comfort and community.",
+      "features": {
+        "colorPalette": "Youthful modern palette",
+        "lighting": "Individual room lighting controls",
+        "materials": "Durable laminate, vinyl, metal furniture"
+      }
+    },
+    {
+      "id": "acceleration-center",
+      "name": "Acceleration Center",
+      "category": "secondary-education",
+      "categoryLabel": "Secondary Education",
+      "folder": "img/projects/project/acceleration-center",
+      "area": "5,000 sq m",
+      "location": "Kazakhstan",
+      "year": "2024",
+      "description": "Modern acceleration center for educational innovation. Features collaborative spaces and modern technology.",
+      "features": {
+        "colorPalette": "Innovation-focused bright accents",
+        "lighting": "Smart lighting with scene control",
+        "materials": "Whiteboards, glass walls, modular furniture"
+      }
+    },
+    {
+      "id": "bi-office",
+      "name": "BI Office",
+      "category": "office-administrative",
+      "categoryLabel": "Office & Administrative",
+      "folder": "img/projects/project/bi-office",
+      "area": "5,000 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern office space with contemporary design and professional atmosphere.",
+      "features": {
+        "colorPalette": "Corporate neutrals with accent colors",
+        "lighting": "Modern LED lighting system",
+        "materials": "Glass, metal, wood composite"
+      }
+    },
+    {
+      "id": "paluan-fit",
+      "name": "Paluan Fit",
+      "category": "sports-complexes",
+      "categoryLabel": "Sports Complexes",
+      "folder": "img/projects/project/paluan-fit",
+      "area": "3,000 sq m",
+      "location": "Kazakhstan",
+      "year": "2024",
+      "description": "Modern fitness center with state-of-the-art equipment and facilities.",
+      "features": {
+        "colorPalette": "Energetic bright colors",
+        "lighting": "Bright gym lighting",
+        "materials": "Rubber flooring, mirrors, metal equipment"
+      }
+    },
+    {
+      "id": "private-cottage",
+      "name": "Private Cottage",
+      "category": "private-residences",
+      "categoryLabel": "Private Residences",
+      "folder": "img/projects/project/private-cottage",
+      "area": "350 sq m",
+      "location": "Almaty Region, Kazakhstan",
+      "year": "2024",
+      "description": "Exclusive private cottage with custom interior design. Features spacious rooms and premium materials.",
+      "features": {
+        "colorPalette": "Natural earth tones",
+        "lighting": "Custom designer fixtures",
+        "materials": "Natural stone, solid wood, custom metalwork"
+      }
+    },
+    {
+      "id": "apartment-1",
+      "name": "Apartment 1",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-1",
+      "area": "110 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern apartment with contemporary interior design and premium finishes.",
+      "features": {
+        "colorPalette": "Neutral tones with accent walls",
+        "lighting": "Modern LED lighting",
+        "materials": "Wood, glass, metal accents"
+      }
+    },
+    {
+      "id": "apartment-3",
+      "name": "Apartment 3",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-3",
+      "area": "95 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Contemporary apartment with open layout and natural lighting.",
+      "features": {
+        "colorPalette": "Light and airy tones",
+        "lighting": "Natural and artificial lighting",
+        "materials": "Wood, stone, textiles"
+      }
+    },
+    {
+      "id": "apartment-6",
+      "name": "Apartment 6",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-6",
+      "area": "92 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern apartment with clean lines and functional layout.",
+      "features": {
+        "colorPalette": "Monochrome with accents",
+        "lighting": "Track lighting",
+        "materials": "Concrete, wood, metal"
+      }
+    },
+    {
+      "id": "apartment-7",
+      "name": "Apartment 7",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-7",
+      "area": "105 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Spacious apartment with contemporary design and premium materials.",
+      "features": {
+        "colorPalette": "Earth tones",
+        "lighting": "Recessed lighting",
+        "materials": "Wood, stone, leather"
+      }
+    },
+    {
+      "id": "apartment-10",
+      "name": "Apartment 10",
+      "category": "residential-spaces",
+      "categoryLabel": "Residential Spaces",
+      "folder": "img/projects/project/квартира-10",
+      "area": "88 sq m",
+      "location": "Almaty, Kazakhstan",
+      "year": "2024",
+      "description": "Modern apartment with stylish interior and functional design.",
+      "features": {
+        "colorPalette": "Neutral with bold accents",
+        "lighting": "Pendant and recessed lighting",
+        "materials": "Wood, metal, textiles"
+      }
+    }
+  ]
+}

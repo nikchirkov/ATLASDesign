@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Details | ATLAS Design</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/main.js" defer></script>
+</head>
+<body>
+    <div id="header-container"></div>
+
+    <!-- Project Detail -->
+    <section class="project-detail project-detail-top">
+        <div class="container">
+            <!-- Project Images & Info Grid -->
+            <div class="project-detail-grid">
+                <div class="project-slider">
+                    <div class="slider-main-wrapper">
+                        <div class="slider-container" id="slider-container">
+                            <!-- Images will be loaded dynamically -->
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 533'%3E%3Crect fill='%23f5f3ef' width='800' height='533'/%3E%3Ctext fill='%23c9a962' font-family='Arial' font-size='24' x='50%25' y='50%25' text-anchor='middle' dominant-baseline='middle'%3ELoading...%3C/text%3E%3C/svg%3E" alt="Loading...">
+                            <button class="slider-btn prev" onclick="slideProject(-1)">&#10094;</button>
+                            <button class="slider-btn next" onclick="slideProject(1)">&#10095;</button>
+                        </div>
+                    </div>
+                    <div class="slider-thumbnails" id="slider-thumbnails">
+                        <!-- Thumbnails will be loaded dynamically -->
+                    </div>
+                </div>
+                <div class="project-detail-info">
+                    <!-- Info will be loaded dynamically -->
+                    <span class="section-label">Loading...</span>
+                    <h2>Loading Project</h2>
+                    <div class="project-meta">
+                        <p><span>Area:</span><span>-</span></p>
+                        <p><span>Location:</span><span>-</span></p>
+                        <p><span>Year:</span><span>-</span></p>
+                        <p><span>Category:</span><span>-</span></p>
+                    </div>
+                    <a href="contact.html" class="btn btn-gold btn-full">Discuss a Similar Project</a>
+                </div>
+            </div>
+
+            <!-- Project Description -->
+            <div class="project-detail-description">
+                <h3>About the Project</h3>
+                <p>Loading project description...</p>
+            </div>
+
+            <!-- Navigation -->
+            <div class="project-detail-nav">
+                <a href="projects.html" class="btn">← All Projects</a>
+                <a href="contact.html" class="btn btn-gold">Start Your Project →</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Like This Project?</h2>
+            <p>Contact us to discuss your ideal space</p>
+            <a href="contact.html" class="btn btn-gold btn-large">Get in Touch</a>
+        </div>
+    </section>
+
+    <div id="footer-container"></div>
+</body>
+</html>
